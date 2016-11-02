@@ -27,7 +27,8 @@
   "homepage": "https://github.com/m18ru/postcss-text-remove-gap#readme",
   "dependencies": {
     "postcss": "^5.2.5",
-    "postcss-font-helpers": "^3.0.0"
+    "postcss-font-helpers": "^3.0.0",
+    "postcss-selector-parser": "^2.2.1"
   },
   "devDependencies": {
     "ava": "^0.16.0"
