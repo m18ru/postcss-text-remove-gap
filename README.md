@@ -263,6 +263,10 @@ div
 }
 ```
 
+```html
+<div>E<div>
+```
+
 ![Space above “E” is 17px → spaceBefore = 0.17, space below “E” is 11px → 
 spaceAfter = 0.11](example-measure.png)
 
