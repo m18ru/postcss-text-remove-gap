@@ -1,5 +1,14 @@
 {
+	"Andale Mono": [0.12, 0.16],
 	"Arial": [0.13, 0.17],
+	"Arial Black": [0.18, 0.1],
+	"Comic Sans MS": [0.15, 0.05],
+	"Courier New": [0.19, 0.23],
+	"Georgia": [0.16, 0.15],
+	"Impact": [0.11, 0.1],
 	"Times New Roman": [0.17, 0.16],
+	"Trebuchet MS": [0.14, 0.14],
+	"Verdana": [0.17, 0.10],
+	
 	"Open Sans": [0.17, 0.16]
 }

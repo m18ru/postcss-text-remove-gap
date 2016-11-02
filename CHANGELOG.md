@@ -23,3 +23,5 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - README.md with plugin description and images.
 - “Open Sans” font in `fonts.json`.
 - CHANGELOG.md.
+- HTML code for measure example.
+- Web Core Fonts in `fonts.json`.
