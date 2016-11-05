@@ -198,7 +198,7 @@ function modeInside( type, offsetValues, declaration )
 		
 		pseudo.removeAll();
 		pseudo.source = declaration.source;
-		pseudo.append( {prop: 'display', value: 'block', source: declaration.source} );
+		pseudo.append( {prop: 'display', value: 'table', source: declaration.source} );
 		pseudo.append( {prop: 'content', value: '""', source: declaration.source} );
 		
 		return pseudo;

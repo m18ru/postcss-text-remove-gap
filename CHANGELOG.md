@@ -11,6 +11,14 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 - …
 
+## [1.1.1] - 2016-11-05
+
+### Fixed
+
+- Margin collapsing problem with two adjacent siblings elements with space 
+  removing. Using `display: table` instead of `display: block` on 
+  pseudo-elements fix this problem.
+
 ## [1.1.0] - 2016-11-04
 
 ### Added

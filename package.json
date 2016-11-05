@@ -1,6 +1,6 @@
 {
   "name": "postcss-text-remove-gap",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Remove space before and after text strings, added by line-height and extra space in glyph itself.",
   "main": "index.js",
   "scripts": {
