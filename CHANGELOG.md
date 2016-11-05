@@ -14,6 +14,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Fixed
 
 - Tests for last changes.
+- Examples in Readme.
 
 ## [1.1.1] - 2016-11-05
 

@@ -51,13 +51,13 @@ p
 }
 p::before
 {
-	display: block;
+	display: table;
 	content: "";
 	margin-bottom: -0.63em;
 }
 p::after
 {
-	display: block;
+	display: table;
 	content: "";
 	margin-top: -0.67em;
 }
@@ -163,14 +163,14 @@ p
 
 p::before
 {
-	display: block;
+	display: table;
 	content: "";
 	margin-bottom: -0.38em;
 }
 
 p::after
 {
-	display: block;
+	display: table;
 	content: "";
 	margin-top: -0.42em;
 }
@@ -190,14 +190,14 @@ li
 
 li::before
 {
-	display: block;
+	display: table;
 	content: "";
 	margin-bottom: -0.6em;
 }
 
 li::after
 {
-	display: block;
+	display: table;
 	content: "";
 	margin-top: -0.7em;
 }
@@ -210,14 +210,14 @@ blockquote
 
 blockquote::before
 {
-	display: block;
+	display: table;
 	content: "";
 	margin-bottom: -0.62em;
 }
 
 blockquote::after
 {
-	display: block;
+	display: table;
 	content: "";
 	margin-top: -0.64em;
 }
