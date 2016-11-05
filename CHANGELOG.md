@@ -11,6 +11,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 - …
 
+### Fixed
+
+- Tests for last changes.
+
 ## [1.1.1] - 2016-11-05
 
 ### Fixed
